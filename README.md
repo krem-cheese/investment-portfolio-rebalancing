@@ -1,7 +1,7 @@
-# investment-portfolio-rebalancing
+# Investment-portfolio-rebalancing
 Project undergone during the 2019 coop period.
 
-## Project breacdown & summary
+## Project breackdown & summary
 
 An investment portfolio is a set of invested assets being managed as a whole, with each asset holding a certain allocation of the total invested amount. As the value of these assets evolve over time due to the changing market, the relative allocation of each allocation also changes. This, coupled with the fact that the maintenance of a balanced portfolio is proven to make more money for an investor than the concept of always buying low and selling high, is reason to have a periodically rebalanced portfolio. Rebalancing a portfolio simply consists of returning assets back to their original allocations by buying into poorly performing stocks and selling from the wellperforming ones. 
 
